@@ -23,6 +23,12 @@ This project implements big-number arithmetic using linked lists, making it suit
 - GCC Compiler
 - Linux Environment
 
+## 👨‍💻 Author
+
+**Siddhant Babanagar**
+🎓 Electronics & Telecommunication Engineer (2025)
+💡 Interested in Embedded Systems & Low-Level Programming
+
 ---
 ## Snapshots
 <img width="882" height="305" alt="image" src="https://github.com/user-attachments/assets/efb0b458-c242-47ce-a830-538c607fcc4d" />
